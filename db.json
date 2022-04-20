@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "createdAt":1650364967728,
+    "text":"Buy milk, alot of milk",
+    "finished":false,
+    "important":false
+  },
+  {
+    "id":2,
+    "createdAt":1650365042261,
+    "text":"Wash car with polirole",
+    "finished":false,
+    "important":true
+  },
+  {
+    "id":3,
+    "createdAt":1650365042261,
+    "text":"Check if building is strong enough",
+    "finished":true,
+    "important":false
+  }
+]
