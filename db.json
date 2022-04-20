@@ -1,3 +1,4 @@
+[
   {
     "id":1,
     "createdAt":1650364967728,
@@ -18,5 +19,5 @@
     "text":"Check if building is strong enough",
     "finished":true,
     "important":false
-  }
-
+  },
+]
